@@ -1,0 +1,6 @@
+@WooCommerceMate_HostAddress = http://localhost:5047
+
+GET {{WooCommerceMate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
